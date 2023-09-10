@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Иван\\.nuget\\packages\\": {}
+    "C:\\Users\\Ivan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YandexDisk\\Документы\\Обучение\\Уроки\\6. Знакомство с языком программирования C#\\Контрольная работа\\Контрольная работа.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\YandexDisk\\Документы\\Обучение\\Уроки\\1. Первая четверть\\6. Знакомство с языком программирования C#\\Контрольная работа\\Контрольная работа.csproj",
       "projectName": "Контрольная работа",
-      "projectPath": "D:\\YandexDisk\\Документы\\Обучение\\Уроки\\6. Знакомство с языком программирования C#\\Контрольная работа\\Контрольная работа.csproj",
-      "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-      "outputPath": "D:\\YandexDisk\\Документы\\Обучение\\Уроки\\6. Знакомство с языком программирования C#\\Контрольная работа\\obj\\",
+      "projectPath": "C:\\Users\\Ivan\\YandexDisk\\Документы\\Обучение\\Уроки\\1. Первая четверть\\6. Знакомство с языком программирования C#\\Контрольная работа\\Контрольная работа.csproj",
+      "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ivan\\YandexDisk\\Документы\\Обучение\\Уроки\\1. Первая четверть\\6. Знакомство с языком программирования C#\\Контрольная работа\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
